@@ -1,4 +1,11 @@
 Collections-Tamil-Translation
 =============================
 
-Collections-Tamil-Tanslation
+https://github.com/translate
+
+Apertium
+Moses
+Sphinx
+
+
+
