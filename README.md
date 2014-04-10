@@ -11,6 +11,8 @@ Apertium    : http://www.apertium.org/
 
 Apertium1   : http://sourceforge.net/p/apertium/svn/19963/tree//incubator/kvtml-parser/kvtml/EnWikt-v1.0-eng-tamil.kvtml
 
+            : http://www.ldcil.org/up/conferences/morph/presentations/CIIL-Paramesh-paper1%20%5BCompatibility%20Mode%5D.pdf
+
 Moses       : http://www.statmt.org/moses/
 
 MT Scripts  : https://github.com/translate/mtscripts
