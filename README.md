@@ -1,11 +1,15 @@
-Machine Translation/இயந்திர மொழியாக்கம் || Natural Language Processing(NLP)/இயற்க்கை/இயல்பு மொழியாக்கம்
+இயந்திர மொழியாக்கம் - Machine Translation(MT)
+=============================================
 
-********************************************************************************************************
+இயற்க்கை/இயல்பு மொழியாக்கம் - Natural Language Processing(NLP)
+==============================================================
+
 
 Translate/l10n  : https://github.com/translate
 
 Apertium    : http://www.apertium.org/
-            : http://sourceforge.net/p/apertium/svn/19963/tree//incubator/kvtml-parser/kvtml/EnWikt-v1.0-eng-tamil.kvtml
+
+Apertium1   : http://sourceforge.net/p/apertium/svn/19963/tree//incubator/kvtml-parser/kvtml/EnWikt-v1.0-eng-tamil.kvtml
 
 Moses       : http://www.statmt.org/moses/
 
@@ -28,8 +32,8 @@ OmegaT  TM              : http://www.omegat.org/en/who_we_are.html
 WebSite Translation plugin  : http://transposh.org/
 
 
+=====================
 சில திட்ட  குறிப்புகள்:-
-
 =====================
 
 
