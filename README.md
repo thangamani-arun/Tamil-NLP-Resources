@@ -33,6 +33,10 @@ OmegaT  TM              : http://www.omegat.org/en/who_we_are.html
 
 WebSite Translation plugin  : http://transposh.org/
 
+Transfer MT : http://matxin.sourceforge.net/
+
+Wiki Transfer MT : http://en.wikipedia.org/wiki/Transfer-based_machine_translation
+
 
 =====================
 சில திட்ட  குறிப்புகள்:-
