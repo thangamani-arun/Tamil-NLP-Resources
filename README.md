@@ -1,4 +1,4 @@
-இயற்க்கை/இயல்பு மொழியாக்கம் - Natural Language Processing(NLP)
+இயற்கை/இயல்பு மொழியாக்கம் - Natural Language Processing(NLP)
 ==============================================================
 
 இயந்திர மொழியாக்கம் - Machine Translation(MT)
